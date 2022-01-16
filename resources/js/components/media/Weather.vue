@@ -89,7 +89,7 @@ export default {
     background-image: url('/images/warm-bg.jpg');
 }
 main{
-    min-height: 100vh;
+    min-height: 70vh;
     padding: 25px;
     background-image: linear-gradient(to bottom,rgba(0,0,0,0.25), rgba(0,0,0,0.75));
 }
