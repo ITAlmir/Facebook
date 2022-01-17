@@ -1,3 +1,3 @@
-php artisan laravel new facebok <br/>
-composer reqire laravel/ui <br/>
-php artisan ui bootstrap --auth <br/>
+php artisan laravel new facebok <hr/>
+composer reqire laravel/ui <hr/>
+php artisan ui bootstrap --auth <hr/>
