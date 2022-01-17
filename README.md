@@ -12,5 +12,5 @@ name : app<br/>
 username: root <br/>
 leave password empty<hr/>
 download the app.sql file and import into app database <hr/>
-copy the files into your facebook app folde and run php artisan serve 
+copy the files into your facebook app folder and run php artisan serve 
 
