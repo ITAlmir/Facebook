@@ -7,3 +7,10 @@ npm run dev <hr/>
 php artisan ui vue <hr/>
 npm install && npm run dev <hr/>
 npm run dev <hr/>
+create DB<br/>
+name : app<br/>
+username: root <br/>
+password:''<hr/>
+download the app.sql file and import into app database <hr/>
+copy the files into your facebook app folde and run php artisan serve 
+
