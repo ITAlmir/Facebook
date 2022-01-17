@@ -1,3 +1,4 @@
+<h2>Console</h2> <hr/>
 laravel new facebok <hr/>
 composer reqire laravel/ui <hr/>
 php artisan ui bootstrap --auth <hr/>
