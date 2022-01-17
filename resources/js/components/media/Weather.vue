@@ -94,7 +94,7 @@ main{
     background-image: linear-gradient(to bottom,rgba(0,0,0,0.25), rgba(0,0,0,0.75));
 }
 .search-box{
-    width: 200px;
+    width: 250px;
     margin-bottom: 30px;
 }
 .search-box .search-bar{
